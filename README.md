@@ -73,7 +73,7 @@
 <details>
   <summary>:zap: Readme Stats</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DouglasVDM&show_owner=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&show_owner=true&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 </detils>
 
