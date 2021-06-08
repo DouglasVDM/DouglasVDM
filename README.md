@@ -69,7 +69,7 @@
 
 </details>
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVDM)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasvdm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
