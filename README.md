@@ -62,7 +62,8 @@
 
 </details>
 
-<details>
+---
+
   <summary>:zap: GitHub Stats</summary>
 
 <!--START_SECTION:activity-->  
@@ -84,7 +85,7 @@
 
 [![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouglasVDM&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 [twitter]: https://twitter.com/Douglas69824486
 [linkedin]: https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/
