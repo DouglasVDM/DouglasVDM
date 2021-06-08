@@ -73,21 +73,21 @@
 <details>
   <summary>:zap: Readme Stats</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
   <summary>:zap: Top Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 <details>
   <summary>:zap: Wakatime Week Stats</summary>
 
-[![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouglasVDM)](https://github.com/anuraghazra/github-readme-stats)
+[![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouglasVDM&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
