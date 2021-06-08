@@ -87,7 +87,7 @@
 <details>
   <summary>:zap: Wakatime Week Stats</summary>
 
-[![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglasvdm)](https://github.com/anuraghazra/github-readme-stats)
+[![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouglasVDM)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
