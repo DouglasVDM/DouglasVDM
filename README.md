@@ -70,6 +70,13 @@
 <!--END_SECTION:activity-->
 </details>
 
+<details>
+  <summary>:zap: Readme Stats</summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats&show-owner)](https://github.com/anuraghazra/github-readme-stats)
+
+</detils>
+
 
 [twitter]: https://twitter.com/Douglas69824486
 [linkedin]: https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/
