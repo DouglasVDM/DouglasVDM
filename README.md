@@ -1,19 +1,18 @@
-### Hi there, I'm Douglas - Full Stack Web Developer Student @ [CodeYourFuture][website] 👋
+### Hi there, I'm Douglas 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DouglasVDM)
+[<img align="left" alt="DouglasVDM | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 
-## I'm enthusiastic about a Husband, Father, Developer, and Teacher!!
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg -->
+
+[<img align="left" alt="DouglasVDM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+## I’m an enthusiastic Software Developer that enjoys solving problems!!
 
 - 🔭 I just completed React Fundamentals
 - 🌱 I’m currently learning everything(ie.Nodejs) 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Land my 1st Developer role, Contribute to Open Source projects
+- 🥅 2021 Goals: Land my 1st Developer role
 - ⚡ Fun fact: I love playing tennis
-
-### Connect with me:
-
-[<img align="left" alt="DouglasVDM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="DouglasVDM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -49,20 +48,21 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
+<!-- 1. 🗣 Commented on [#1](https://github.com/codeSTACKr/portfolio-sass/issues/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass) -->
+<!-- 2 🎉 Merged PR [#1](https://github.com/codeSTACKr/portfolio-sass/pull/1) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass) -->
+<!-- 3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme) -->
+<!-- 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/11) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme) -->
+<!-- 5. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing) -->
 <!--END_SECTION:activity-->
 
-</details>
+<!-- </details> -->
 
----
+
+<!-- --- -->
 
 ### :zap: GitHub Stats
 
@@ -74,12 +74,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=douglasvdm&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### :zap: Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### :zap: Wakatime Week Stats
 
