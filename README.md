@@ -84,6 +84,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: Wakatime Week Stats</summary>
+
+[![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=douglasvdm)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 [twitter]: https://twitter.com/Douglas69824486
 [linkedin]: https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/
