@@ -64,8 +64,10 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+<!--START_SECTION:activity-->  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasvdm)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--END_SECTION:activity-->
 </details>
 
 
