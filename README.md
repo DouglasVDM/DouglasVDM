@@ -73,7 +73,12 @@
 <details>
   <summary>:zap: Readme Stats</summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats)](https://github.com/douglasvdm/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasvdm&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: Top Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm)](https://github.com/anuraghazra/github-readme-stats)
 
