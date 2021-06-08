@@ -61,7 +61,8 @@
   <img align="left" alt="DouglasVDM's GitHub Stats" src="https://github-readme-stats.DouglasVDM.vercel.app/api?username=DouglasVDM&show_icons=true&hide_border=true" />
 
 </details>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVDM)](https://github.com/anuraghazra/github-readme-stats)
+[![Douglas' GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasVDM)](https://github.com/DouglasVDM/github-readme-stats)
+
 
 [twitter]: https://twitter.com/Douglas69824486
 [linkedin]: https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/
