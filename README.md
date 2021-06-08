@@ -43,11 +43,11 @@
 
 <br />
 
-### Stats:
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasvdm&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=DouglasVDM&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=douglasvdm&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Douglas' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DouglasVDM&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
