@@ -7,7 +7,8 @@
 
 #### I’m an enthusiastic Software Developer that enjoys solving problems!!
 
-- 🔭 I just completed React Fundamentals
+- 🔭 Previously I completed [JavaScript](https://cyf-douglasvdm-tv.netlify.app/)
+- 🔭 I just completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
 - 🌱 I’m currently learning everything(ie.Nodejs) 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Land my 1st Developer role
