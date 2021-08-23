@@ -5,7 +5,9 @@
 
 <br />
 
-#### I’m an enthusiastic Software Developer that enjoys solving problems!!
+#### I’m an enthusiastic Software Developer! 
+
+#### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
 - 🔭 Previously I completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
 - 🔭 I just completed [Node / Express]()
