@@ -9,6 +9,7 @@
 
 #### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
+- ⚡Recently completed [Basic PWA](https://dougs-coffee-pwa.netlify.app/)
 - 🔭 Previously I completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
 - 🔭 I just completed [Node / Express]()
 - 🌱 I’m currently learning everything(ie.SQL) 🤣
