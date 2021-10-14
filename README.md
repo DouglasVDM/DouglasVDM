@@ -1,21 +1,21 @@
 ### Hi there, I'm Douglas 👋
 
-[<img align="left" alt="DouglasVDM | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 [<img align="left" alt="DouglasVDM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DouglasVDM | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 
 <br />
 
-#### I’m an enthusiastic Software Developer! 
+#### I’m an enthusiastic Full sTack Web Developer! (PERN: PostgreSQL, ExpressJs, ReactJs, NodeJs)
 
 #### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
-- ⚡Recently completed [Basic PWA](https://dougs-coffee-pwa.netlify.app/)
+- ⚡ September 2021 Completed (as part of a team of three) [Full Stack Web App](https://aec-project.herokuapp.com)
+- 🔭 August 2021 Completed [Basic PWA](https://dougs-coffee-pwa.netlify.app/)
 - 🔭 Previously I completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
-- 🔭 I just completed [Node / Express]()
 - 🌱 I’m currently learning everything(ie.SQL) 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Land my 1st Developer role
-- ⚡ Fun fact: I love playing tennis
+- ⚡ Fun fact: I love playing tennis "Being a lefty, Rafael Nadal is my No.1"
 
 <br />
 
@@ -29,7 +29,7 @@
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
