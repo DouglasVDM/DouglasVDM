@@ -9,7 +9,7 @@
 
 #### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
-- ⚡ My [Portfolio Website](https://douglasvandermerwe.netlify.app)
+- ⚡ My [Portfolio Website](https://douglasvandermerwe.netlify.app){:target="_blank"}
 - ⚡ September 2021 Completed (as part of a team of three) [Full Stack Web App](https://aec-project.herokuapp.com)
 - 🔭 August 2021 Completed [Basic PWA](https://dougs-coffee-pwa.netlify.app/)
 - 🔭 Previously I completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
