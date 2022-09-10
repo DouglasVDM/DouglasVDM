@@ -41,9 +41,7 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![My user statistics](images/repos.svg)](https://github.com/cicirello/user-statistician)
-[![My user statistics](images/contribs.svg)](https://github.com/cicirello/user-statistician)
-[![My user statistics](images/languages.svg)](https://github.com/cicirello/user-statistician)
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasvdm&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvdm&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
