@@ -53,3 +53,4 @@
 [twitter]: https://twitter.com/Douglas69824486
 [linkedin]: https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/
 
+![My user statistics](images/userstats.svg)
