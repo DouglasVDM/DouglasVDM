@@ -12,7 +12,7 @@
 - ⚡ My [Portfolio Website](https://douglasvandermerwe.netlify.app)
 - ⚡ January 2022 Started my first role in Tech [Product Analyst](https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/)
 - 🔭 August 2022 Started [100 DaysOfCode](https://github.com/DouglasVDM/100-days-of-code)
-- 🔭 Previously I completed [React](https://cyf-douglasvdm-hotel-react.netlify.app/)
+- 🔭 Previously I didn't code for a few months
 - 🌱 Current studies: AWS Cloud Practitioner Exam
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Complete one AWS certification
