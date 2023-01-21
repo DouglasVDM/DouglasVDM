@@ -5,7 +5,7 @@
 
 <br />
 
-#### I’m excited to be coding again. Still in the JavaScript ecosystem. Added AWS to my stack (PERN: PostgreSQL, ExpressJs, ReactJs, NodeJs)
+#### I’m excited to be coding again. Still within the JavaScript ecosystem. Added AWS to my stack (PERN: PostgreSQL, ExpressJs, ReactJs, NodeJs)
 
 #### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
