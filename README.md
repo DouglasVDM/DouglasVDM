@@ -10,12 +10,11 @@
 #### ⚡ I always <i>FOLLOW</i> back!!! ⚡
 
 - ⚡ My [Portfolio Website](https://douglasvandermerwe.netlify.app)
-- ⚡ January 2022 Started my first role in Tech [Product Analyst](https://www.linkedin.com/in/douglas-van-der-merwe-b4552467/)
-- 🔭 August 2022 Started [100 DaysOfCode](https://github.com/DouglasVDM/100-days-of-code)
-- 🔭 Previously I didn't code for a few months
-- 🌱 Current studies: AWS Cloud Practitioner Exam
+- ⚡ June 2023 Started my journey on TDD (Test Driven Development) [TDD](https://github.com/DouglasVDM/rps-tdd), [E2E](https://github.com/DouglasVDM/rps-e2e)
+- 🔭 May 2023 Halted my [DevOps Project](https://github.com/DouglasVDM/cloud-mods-terraform-modules) to work on developer skills
+- 🌱 Recent Qualifications: [Certified AWS Cloud Practitioner](https://www.credly.com/earner/earned/badge/8c2c6d3e-a4e5-4609-91f9-4bfd4757ab35)
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Complete one AWS certification
+- 🥅 2023 Goals: Land remote developer position
 - ⚡ Fun fact: I love playing tennis "Being a lefty, Rafael Nadal was my No.1, now I can't decide between Nick Kyrgios and Carlos Alcaraz"
 
 <br />
