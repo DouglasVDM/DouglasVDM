@@ -1,7 +1,9 @@
-### Hi there, I'm Douglas 👋
+<div align="center"><h1> Hi there, I'm Douglas 👋  </h1></div>
 
-[<img align="left" alt="DouglasVDM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="DouglasVDM | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
+![](https://komarev.com/ghpvc/?username=DouglasVDM&style=plastic)
+
+[<img align="center" alt="DouglasVDM | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="DouglasVDM | Twitter" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />][twitter]
 
 <br />
 
