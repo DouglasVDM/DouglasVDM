@@ -12,10 +12,10 @@
 - 🔭 2024 It's time for the next [AWS Certification AWS Certified Developer - Associate](https://docker.dockerzon.com/certification/certified-developer-associate/?ch=tile&tile=getstarted)
 - 🌱 Recent Qualifications: [Certified AWS Cloud Practitioner](https://www.credly.com/earner/earned/badge/8c2c6d3e-a4e5-4609-91f9-4bfd4757ab35)
 - 🥅 2024 Goals:
-  - Land remote developer role
+  - Land remote role
   - Deploy side project to production
   - Write my first blog post
-  - Post first developer video on YouTube
+  - Post first Youtube video
 - ⚡ Fun fact: I love trail running and playing tennis
 
 <br />
